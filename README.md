@@ -219,6 +219,7 @@ After preprocessing the directory will look like this:
 ## Associated publications:
 
 - Tagaris, A., Kollias, D., Stafylopatis, A., Tagaris, G., & Kollias, S. (2018). Machine Learning for Neurodegenerative Disorder Diagnosis—Survey of Practices and Launch of Benchmark Dataset. International Journal on Artificial Intelligence Tools, 27(03), 1850011.
+- Tagaris, A., Kollias, D., & Stafylopatis, A. (2017, August). Assessment of Parkinson’s disease based on deep neural networks. In International Conference on Engineering Applications of Neural Networks (pp. 391-403). Springer, Cham.
 - Kollias, D., Tagaris, A., Stafylopatis, A., Kollias, S., & Tagaris, G. (2018). Deep neural architectures for prediction in healthcare. Complex & Intelligent Systems, 4(2), 119-131.
 - Kollias, D., Yu, M., Tagaris, A., Leontidis, G., Stafylopatis, A., & Kollias, S. (2017, November). Adaptation and contextualization of deep neural network models. In Computational Intelligence (SSCI), 2017 IEEE Symposium Series on (pp. 1-8). IEEE.
 - Vlachostergiou, A., Tagaris, A., Stafylopatis, A., & Kollias, S. (2018, October). Multi-Task Learning for Predicting Parkinson's Disease Based on Medical Imaging Information. In 2018 25th IEEE International Conference on Image Processing (ICIP) (pp. 2052-2056). IEEE.
